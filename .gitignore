@@ -40,3 +40,5 @@ build/
 /target
 
 pom.xml
+
+/.idea
